@@ -1,0 +1,4 @@
+Run the Streamlit application and save the output screenshot here.
+
+Recommended filename:
+resume_analyzer_output.png
