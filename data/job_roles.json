@@ -1,0 +1,71 @@
+{
+  "Java Developer": [
+    "Java",
+    "Spring Boot",
+    "SQL",
+    "REST API",
+    "Git",
+    "Problem Solving"
+  ],
+  "Python Developer": [
+    "Python",
+    "Django",
+    "Flask",
+    "SQL",
+    "Git",
+    "REST API"
+  ],
+  "Data Analyst": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Tableau",
+    "Pandas",
+    "Data Analysis"
+  ],
+  "Machine Learning Engineer": [
+    "Python",
+    "Machine Learning",
+    "Scikit-learn",
+    "Pandas",
+    "NumPy",
+    "TensorFlow",
+    "Deep Learning"
+  ],
+  "Frontend Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Git",
+    "Figma"
+  ],
+  "Backend Developer": [
+    "Node.js",
+    "Express",
+    "SQL",
+    "MongoDB",
+    "REST API",
+    "Git"
+  ],
+  "Full Stack Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "SQL",
+    "MongoDB",
+    "Git"
+  ],
+  "Cyber Security Analyst": [
+    "Cyber Security",
+    "Network Security",
+    "Linux",
+    "Python",
+    "Testing",
+    "Problem Solving"
+  ]
+}
